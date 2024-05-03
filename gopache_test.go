@@ -1,4 +1,4 @@
-package github.com/tigunia-dave/gopache
+package gopache
 
 import (
 	"os"
